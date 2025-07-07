@@ -1,1 +1,1 @@
-# My Django App
+# My Django Practice App
